@@ -1,5 +1,7 @@
-FUTURE READY TALENT PROJECT
-KOIVD (HEALTH CARE UPDATES)
+<h1>FUTURE READY TALENT PROJECT<h1>
+
+<h3>KOIVD (HEALTH CARE UPDATES)<h3>
+
 This is a static website developed using HTML, CSS, JavaScript languages and W3 framework. The primary motto of "KOVID"
 Website is to keep once updated on every possible health disease and provide efficient and potent knowledge and services in all arenas of health care so as to ensure safety and wellbeing of individual as well as their young ones.
 
