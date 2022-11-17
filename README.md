@@ -36,6 +36,6 @@ For more updates above will be provided with newsletter facility, which will pro
 
 Lastly will be provided with CONTACT INFORMATION and links  of SOCIAL MEDIA ACCOUTS.
 
-Te link for the website is:https://white-pond-05452ea10.2.azurestaticapps.net/
+Te link for the website is:https://thankful-pond-092958c10.2.azurestaticapps.net
 
 
